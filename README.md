@@ -1,4 +1,15 @@
 # Elevate_Labs_Task_4_Firewall
+## Firewall Configration Using UFW
+## install UFW Tool
+1. Sudo apt install ufw
+## Check Ufw Status active/inactive
+## Here is Screenshot of Status Chaked Ouput
+![Screenshot From 2025-06-27 21-25-37](https://github.com/user-attachments/assets/1f8bb89e-b30f-46f6-b4ad-69eb586ccf9c)
+## View Existing Rules
+if No Any Existing Rule---status is None
+## Add a rule to block inbound traffic of port 23/telnet
+![Uploading Screenshot From 2025-06-27 21-39-55 (1).png…]()
+## Test the rule--- If the port is blocked, it will show:
 ## Windows Firewall Configration 
 ### Step of Open firewall setting<br>
 1. Open Control Panel<br>
