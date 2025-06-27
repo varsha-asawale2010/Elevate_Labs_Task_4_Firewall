@@ -3,14 +3,21 @@
 ## install UFW Tool
 1. Sudo apt install ufw
 ## Check Ufw Status active/inactive
-## Here is Screenshot of Status Chaked Ouput
+### Here is Output
 ![Screenshot From 2025-06-27 21-25-37](https://github.com/user-attachments/assets/1f8bb89e-b30f-46f6-b4ad-69eb586ccf9c)
 ## View Existing Rules
-if No Any Existing Rule---status is None
+### If No Any Existing Rule---Status is None
+![Screenshot From 2025-06-27 21-31-07](https://github.com/user-attachments/assets/86e5bb6e-d555-4044-8d61-d32bfb08afc0)
 ## Add a rule to block inbound traffic of port 23/telnet
-![Uploading Screenshot From 2025-06-27 21-39-55 (1).png…]()
+![Screenshot From 2025-06-27 21-39-55](https://github.com/user-attachments/assets/879611d5-cbe9-4885-b961-5003f4953ae2)
 ## Test the rule--- If the port is blocked, it will show:
-## Windows Firewall Configration 
+![Screenshot From 2025-06-27 21-42-41](https://github.com/user-attachments/assets/ad518339-d9b8-4a85-86bd-1524ddb01860)
+## Remove Test Block Rule
+![Screenshot From 2025-06-27 21-45-42](https://github.com/user-attachments/assets/25b950b9-7732-400d-9f96-62dca52e5915)
+
+
+
+## Firewall Configration on Windows
 ### Step of Open firewall setting<br>
 1. Open Control Panel<br>
 2. Click On System And Security<br>
