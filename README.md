@@ -27,5 +27,14 @@ After Blocking 23/telnet port  result
 Allow 22/SSH Rule Added 
 ![image](https://github.com/user-attachments/assets/0912abdd-22c9-4d88-bebd-57a19bbaea0a)
 
+Open Firewall with Advanced Security
+Block port 23 via TCP Block 
+
+Allow port 22 via TCP → Allow 
+
+Delete the "Block Telnet" rule when done.
+
+
+
 
 
